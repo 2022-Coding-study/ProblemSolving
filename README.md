@@ -1,3 +1,3 @@
 # ProblemSolving
 ## 2022 Coding Study✨
-DWU CS 21학번 네명의 스터디!
+### “Hello Study!” 동덕여대 컴과 4명의 코딩 스터디를 위한 메인 페이지 입니다👋
